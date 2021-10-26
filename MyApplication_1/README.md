@@ -1,0 +1,1 @@
+![скрин](https://github.com/User-Student-A/MobileProjects/MyApplication_1/img.jpg)
