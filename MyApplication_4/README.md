@@ -1,1 +1,1 @@
-![скрин](https://github.com/User-Student-A/MobileProjects/MyApplication_4/img.png)
+![скрин](https://raw.githubusercontent.com/User-Student-A/MobileProjects/main/MyApplication_4/img.png)
