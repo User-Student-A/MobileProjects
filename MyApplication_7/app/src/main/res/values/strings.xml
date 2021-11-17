@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="details_button">Показать детали</string>
+    <string name="workout_title">Заголовок</string>
+    <string name="workout_description">Описание</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+</resources>
